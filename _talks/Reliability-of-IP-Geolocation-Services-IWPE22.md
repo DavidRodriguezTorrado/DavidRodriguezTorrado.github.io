@@ -1,7 +1,7 @@
 ---
 title: "Reliability of IP Geolocation Services for Assessing the Compliance of International Data Transfers"
 collection: talks
-type: talk
+type: presentation
 permalink: /talks/iwpe-ip-geolocation-2022
 venue: "International Workshop on Privacy Engineering (IWPE 2022)"
 date: 2022-06-06

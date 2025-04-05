@@ -1,7 +1,7 @@
 ---
 title: "Data Retention Disclosures in the Google Play Store: Opacity Remains the Norm"
 collection: talks
-type: talk
+type: presentation
 permalink: /talks/iwpe-retention-playstore-2024
 venue: "International Workshop on Privacy Engineering (IWPE 2024)"
 date: 2024-07-08
