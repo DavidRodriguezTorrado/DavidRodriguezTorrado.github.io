@@ -15,7 +15,7 @@ Welcome! I’m a Teaching Assistant and Ph.D. candidate in Privacy Engineering a
 
 Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year students at the **Escuela Técnica Superior de Ingenieros de Telecomunicación**, where I cover topics like software design, concurrent programming, and complexity analysis.
 
-Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the national research project AutoGDPR related to GDPR compliance, privacy policy analysis, and data flow auditing.
+Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, related to GDPR compliance, privacy policy analysis, and data flow auditing.
 
 ---
 
