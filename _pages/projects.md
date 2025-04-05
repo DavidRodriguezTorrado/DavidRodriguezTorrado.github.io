@@ -8,7 +8,10 @@ author_profile: true
 ## Research Projects
 ---
 
-### ![CEDAR Project](/images/LOGO-cedar.png) CEDAR: Common European Data Spaces and Robust AI for Transparent Public Governance
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="/images/LOGO-cedar.png" alt="CEDAR Project" style="max-width: 100px; height: auto;">
+  <h3 style="margin: 0;">CEDAR: Common European Data Spaces and Robust AI for Transparent Public Governance</h3>
+</div>
 
 I am involved in the **CEDAR project**, funded under the Horizon Europe programme (Grant Agreement No. 101135577). This initiative aims to develop methods, tools, and guidelines for the digitization, protection, and integration of public sector data, tackling issues such as corruption and fraud in public administration. CEDAR seeks to establish common European data spaces and deploy robust AI solutions to foster greater transparency and accountability in public governance.
 
