@@ -5,10 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Participación en Proyectos de Investigación
-======
+---
 
 ### CEDAR: Common European Data Spaces and Robust AI for Transparent Public Governance
 ======
