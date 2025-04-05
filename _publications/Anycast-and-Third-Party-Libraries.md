@@ -9,6 +9,7 @@ type: 'journal'
 category: journals
 paperurl: 'https://doi.org/10.1109/MCOM.006.2400576'
 doi: 'https://doi.org/10.1109/MCOM.006.2400576'
+featured: false
 excerpt: 'This article reveals that 98.65% of Android apps and 90% of third-party libraries using anycast potentially violate GDPR by enabling undisclosed international personal data transfers. It emphasizes the need for transparency and standardization in TPL privacy disclosures.'
 ---
 
