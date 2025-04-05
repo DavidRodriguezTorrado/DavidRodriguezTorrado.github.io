@@ -47,6 +47,6 @@ I have contributed to the **AutoGDPR project**, which aims to automate complianc
 - **Development of automated LLM-based methods**, utilized to analyze privacy policies at scale, identifying privacy-related practices.
 - **Cross-comparison between policy claims and actual data practices**, enabling the detection of inconsistencies or gaps in compliance.
 - **Design and execution of empirical studies to evaluate compliance** in over 20,000 Android apps, evaluating compliance regarding international transfers, third-party data sharing, data retention, and others.
-- **Extensive media coverage of key findings**, with the article “Sharing is Not Always Caring” featured in national outlets such as La Vanguardia, Computer Hoy, COPE, TreceTV, and The Conversation, among others. This widespread dissemination raised public awareness on the risks of data sharing and the lack of transparency in mobile applications.
+- **Extensive media coverage of key findings**, featured in national outlets such as La Vanguardia, Computer Hoy, COPE, TreceTV, and The Conversation, among others. This widespread dissemination raised public awareness on the risks of data sharing and the lack of transparency in mobile applications.
 
 ---
