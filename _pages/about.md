@@ -59,10 +59,11 @@ Since 2023, I lecture in the second-year undergraduate course **Software Analysi
 
 I’ve presented my research at various international venues, including:
 
-- 🥇 *Best Presentation Award* at IWPE 2022 (IEEE EuroS&P Workshops)
+- Invited talk at Queen Mary University of London (2024)
 - 🥈 *Second Best Presentation Award* at IWPE 2023
+- 🥇 *Best Presentation Award* at IWPE 2022 (IEEE EuroS&P Workshops)
 - Poster at SECRYPT 2022 in Lisbon
-- Invited talk at Queen Mary University of London (2023)
+
 
 ---
 
