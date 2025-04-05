@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Privacy Engineering, Universidad Politécnica de Madrid, 2025 (expected)
+  Thesis: "Contributions to the automated assessment of ICT systems compliance with privacy and data protection requirements"
+* M.S. in Cybersecurity, Universidad Politécnica de Madrid, 2022
+* B.S. in Telecommunications Engineering, Universidad Politécnica de Madrid, 2021
 
 Work experience
 ======
