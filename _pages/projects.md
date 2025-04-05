@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="/images/LOGO-cedar.png" alt="CEDAR Project" style="max-width: 100px; height: auto;">
-  <h2 style="margin: 0;">CEDAR: Common European Data Spaces and Robust AI for Transparent Public Governance</h3>
+  <h2 style="margin: 0;">CEDAR: Common European Data Spaces and Robust AI for Transparent Public Governance</h2>
 </div>
 
 **Project Duration:** January 2024 – December 2026  
@@ -32,7 +32,7 @@ For more information about the project, please visit the official website: [http
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="/images/LOGO-AutoGDPR.png" alt="CEDAR Project" style="max-width: 100px; height: auto;">
-  <h2 style="margin: 0;">AutoGDPR: Automating GDPR Compliance Assessment</h3>
+  <h2 style="margin: 0;">AutoGDPR: Automating GDPR Compliance Assessment</h2>
 </div>
 
 **Project Duration:** December 2022 – December 2024 
