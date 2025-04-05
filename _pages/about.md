@@ -22,7 +22,7 @@ Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to 
 ### 🧪 Ph.D. Research
 
 **Thesis title:**  
-*Contributions to the automated assessment of ICT systems compliance with privacy and data protection requirements*
+*Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
 
 My research addresses three key layers of analysis in mobile privacy:
 
