@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Privacy Engineering, Universidad Politécnica de Madrid, 2025 (expected)
-  * Thesis: "Contributions to the automated assessment of ICT systems compliance with privacy and data protection requirements"
+  Thesis: "Contributions to the automated assessment of ICT systems compliance with privacy and data protection requirements"
 * M.S. in Cybersecurity, Universidad Politécnica de Madrid, 2022
 * B.S. in Telecommunications Engineering, Universidad Politécnica de Madrid, 2021
 
@@ -24,7 +24,7 @@ Work experience
   Teaching duties in the undergraduate course **ADSW (Software Analysis and Design)**, Escuela Técnica Superior de Ingenieros de Telecomunicación.
 
 * **Research Assistant**, Universidad Politécnica de Madrid — (*2021–2023*)
-  Member of the **STRAST** research group (Sistemas de Tiempo Real y Arquitectura de Servicios Telemáticos).  
+  Member of the **STRAST** research group (Sistemas de Tiempo Real y Arquitectura de Servicios Telemáticos).
   Supervised by Professor José María del Álamo.
 
 Skills
