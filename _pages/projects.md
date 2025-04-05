@@ -15,8 +15,9 @@ author_profile: true
 
 **Project Duration:** January 2024 – December 2026  
 **Total Funding:** 9M €
+**Funding Agency**: (European) Horizon Europe programme, Grant Agreement No. 101135577.
 
-I am involved in the **CEDAR project**, funded under the Horizon Europe programme (Grant Agreement No. 101135577). This initiative aims to develop methods, tools, and guidelines for the digitization, protection, and integration of public sector data, tackling issues such as corruption and fraud in public administration. CEDAR seeks to establish common European data spaces and deploy robust AI solutions to foster greater transparency and accountability in public governance.
+I am involved in the **CEDAR project**, which aims to develop methods, tools, and guidelines for the digitization, protection, and integration of public sector data, tackling issues such as corruption and fraud in public administration. CEDAR seeks to establish common European data spaces and deploy robust AI solutions to foster greater transparency and accountability in public governance.
 
 **My contributions to the project include:**
 
@@ -34,12 +35,16 @@ For more information about the project, please visit the official website: [http
 
 **Project Duration:** December 2022 – December 2024 
 **Total Funding:** 100K €
+**Funding Agency**: (National) Spanish Ministry of Science and Innovation (MCIN) and State Research Agency (AEI), Grant No. PID2021-125869OB-I00
 
-I have also contributed to the **AutoGDPR project**, which focuses on automating processes that support compliance with the General Data Protection Regulation (GDPR) in organizational settings. The project aims to deliver technical solutions that enable both public and private entities to meet privacy and data protection requirements more efficiently and effectively.
+I have contributed to the **AutoGDPR project**, which aims to automate compliance assessment of Android mobile applications with the General Data Protection Regulation (GDPR). This project involves developing methods to observe the actual apps' behavior, the disclosed apps' behavior and the GDPR guidelines, comparing them to assess compliance.
 
 **My contributions to the project include:**
 
-- Applying large language models to assess and enhance privacy policies.
-- Developing automated tools for compliance verification and policy evaluation.
+- **Development of a modular platform for dynamic app analysis**, capable of running real Android devices in parallel and implemented in Python for improved maintainability. This platform captures and analyzes runtime behaviors to detect potential privacy violations.
+- **Development of automated LLM-based methods**, utilized to analyze privacy policies at scale, identifying privacy-related practices.
+- **Cross-comparison between policy claims and actual data practices**, enabling the detection of inconsistencies or gaps in compliance.
+- **Design and execution of empirical studies to evaluate compliance** in over 20,000 Android apps, evaluating compliance regarding international transfers, third-party data sharing, data retention, and others.
+- **Extensive media coverage of key findings**, with the article “Sharing is Not Always Caring” featured in national outlets such as La Vanguardia, Computer Hoy, COPE, TreceTV, and The Conversation, among others. This widespread dissemination raised public awareness on the risks of data sharing and the lack of transparency in mobile applications.
 
 ---
