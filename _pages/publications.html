@@ -23,23 +23,10 @@ author_profile: true
   <p>No featured publications yet.</p>
 {% endif %}
 
-<!-- Normal categorized rendering -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!-- 📚 All Publications -->
+<h2>📚 All Publications</h2>
+<hr />
+{% assign non_featured = site.publications | where_exp:"item", "item.featured != true" | sort: "date" | reverse %}
+{% for post in non_featured %}
+  {% include archive-single.html %}
+{% endfor %}
