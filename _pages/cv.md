@@ -26,7 +26,7 @@ Work experience
 * **Research Assistant**, Universidad Politécnica de Madrid — (*2021–2023*)
   Member of the **STRAST** research group (Sistemas de Tiempo Real y Arquitectura de Servicios Telemáticos).
   Supervised by Professor José María del Álamo.
-
+  
 Skills
 ======
 
