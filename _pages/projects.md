@@ -16,7 +16,7 @@ I am involved in the **CEDAR project**, funded under the Horizon Europe programm
 
 **My contributions to the project include:**
 
-- Developing an automated method leveraging LLMs for generating a Data Model from structured data (CSVs).
+- Developing an automated method leveraging LLMs for generating a Data Model from structured data (CSV).
 - Deduplication solving problem. Entity matching of Slovenian business organizations using string similarity.
 
 For more information, please visit the official website: [https://cedar-heu-project.eu/](https://cedar-heu-project.eu/)
