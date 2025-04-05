@@ -28,7 +28,7 @@ For more information about the project, please visit the official website: [http
 ---
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="/images/LOGO-AutoGPDR.png" alt="CEDAR Project" style="max-width: 100px; height: auto;">
+  <img src="/images/LOGO-AutoGDPR.png" alt="CEDAR Project" style="max-width: 100px; height: auto;">
   <h3 style="margin: 0;">AutoGDPR: Automating GDPR Compliance Assessment</h3>
 </div>
 
