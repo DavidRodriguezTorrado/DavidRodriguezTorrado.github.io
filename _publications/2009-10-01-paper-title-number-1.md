@@ -8,7 +8,7 @@ citation: 'D Rodriguez, JA Calandrino, JM Del Alamo, N Sadeh. "Privacy Settings 
 type: 'conference'
 category: conference
 featured: true
-paperurl: 'https://petsymposium.org/popets/2025/popets-2025-0044.pdf'
+paperurl: 'https://petsymposium.org/popets/2025/popets-2025-0056.pdf'
 doi: 'https://doi.org/10.56553/popets-2025-0056'
-excerpt: 'Presented at PETS 2025 (Washington D.C., July), this paper analyzes how third-party SDKs like Facebook affect privacy settings in Android apps. It highlights the mismatch between default SDK configurations and data protection requirements.'
+excerpt: 'This paper investigates how Android developers configure privacy-related settings when integrating the Facebook SDK and Audience Network SDK. Analyzing over 6,000 popular apps, the study finds that many retain default settings that are less privacy-friendly and fail to align with declared practices in privacy labels and policies. It offers recommendations for SDK providers to promote data minimization and improve transparency.'
 ---
