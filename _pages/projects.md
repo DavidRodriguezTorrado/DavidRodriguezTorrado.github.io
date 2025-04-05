@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-# Research Projects
 ---
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
