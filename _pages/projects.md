@@ -2,11 +2,16 @@
 layout: page
 title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
+{% include base_path %}
+
 ## Participación en Proyectos de Investigación
+======
 
 ### CEDAR: Common European Data Spaces and Robust AI for Transparent Public Governance
+======
 
 ![CEDAR Project](https://cedar-heu-project.eu/assets/images/logo.png)
 
@@ -22,6 +27,7 @@ Para más información, visita el sitio web oficial del proyecto: [https://cedar
 ---
 
 ### AutoGDPR: Automatización del Cumplimiento del RGPD
+======
 
 ![AutoGDPR Project](https://upload.wikimedia.org/wikipedia/commons/3/3f/Privacy_Icons_-_GDPR_Transparency.png)
 
