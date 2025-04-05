@@ -10,28 +10,26 @@ permalink: /projects/
 
 ![CEDAR Project](https://cedar-heu-project.eu/assets/images/logo.png)
 
-He participado en el proyecto **CEDAR**, financiado por el programa Horizon Europe (acuerdo de subvención nº 101135577). Este proyecto tiene como objetivo desarrollar métodos, herramientas y directrices para la digitalización, protección e integración de datos, abordando cuestiones significativas como la corrupción y el fraude en la administración pública. CEDAR busca crear espacios de datos europeos comunes y soluciones de inteligencia artificial robustas para promover una gobernanza pública más transparente y responsable en Europa. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+He participado en el proyecto **CEDAR**, financiado por el programa Horizon Europe (acuerdo de subvención nº 101135577). Este proyecto tiene como objetivo desarrollar métodos, herramientas y directrices para la digitalización, protección e integración de datos, abordando cuestiones significativas como la corrupción y el fraude en la administración pública. CEDAR busca crear espacios de datos europeos comunes y soluciones de inteligencia artificial robustas para promover una gobernanza pública más transparente y responsable en Europa.
 
 **Mis contribuciones incluyen:**
 
-- :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}
+- Desarrollo de herramientas de análisis de datos para detectar patrones de corrupción en grandes volúmenes de datos.
+- Colaboración en la creación de conjuntos de datos de alta calidad para mejorar la transparencia en la administración pública.
 
 Para más información, visita el sitio web oficial del proyecto: [https://cedar-heu-project.eu/](https://cedar-heu-project.eu/)
 
+---
+
 ### AutoGDPR: Automatización del Cumplimiento del RGPD
 
-![AutoGDPR Project](https://example.com/autogdpr-logo.png)
+![AutoGDPR Project](https://upload.wikimedia.org/wikipedia/commons/3/3f/Privacy_Icons_-_GDPR_Transparency.png)
 
-:contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+También he formado parte del proyecto **AutoGDPR**, centrado en la automatización de procesos para garantizar el cumplimiento del Reglamento General de Protección de Datos (RGPD) en organizaciones. Este proyecto desarrolla soluciones que permiten a las empresas y entidades públicas cumplir con las normativas de privacidad de manera más eficiente y efectiva.
 
 **Mis contribuciones incluyen:**
 
-- :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+- Implementación de modelos de lenguaje para evaluar y mejorar políticas de privacidad.
+- Desarrollo de herramientas automatizadas para la evaluación de cumplimiento normativo.
 
 *Nota: Actualmente, no se dispone de un enlace público para el proyecto AutoGDPR.*
-
----
-
-:contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
