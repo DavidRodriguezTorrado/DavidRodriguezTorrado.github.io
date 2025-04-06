@@ -70,9 +70,9 @@ I’ve presented my research at various international venues, including:
 
 - Invited talk at Queen Mary University of London (2024)
 - 🥈 *Second Best Presentation Award* at IWPE 2023 (IEEE EuroS&P Workshop)
+- Poster at CyLab Partners Conference 2023 (Carnegie Mellon University) 
 - 🥇 *Best Presentation Award* at IWPE 2022 (IEEE EuroS&P Workshop)
 - Poster at SECRYPT 2022 in Lisbon
-
 
 ---
 
