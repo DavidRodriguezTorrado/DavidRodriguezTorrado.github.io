@@ -15,7 +15,16 @@ Welcome! I’m a Teaching Assistant and Ph.D. candidate in Privacy Engineering a
 
 Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year students at the **Escuela Técnica Superior de Ingenieros de Telecomunicación**, where I cover topics like software design, concurrent programming, and complexity analysis.
 
-Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, related to GDPR compliance, privacy policy analysis, and data flow auditing.
+Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, related to GDPR compliance, privacy policy analysis, and data flow auditing. Today, I continue this work as my main research line.
+
+I currently serve as **Publicity Chair** for the [International Workshop on Privacy Engineering (IWPE 2025)](https://iwpe.info/), where I help coordinate outreach, promotion, and community engagement for the event.
+
+---
+
+### 🌍 International Research Experience
+
+- **Carnegie Mellon University** (USA, 2023): Visiting Ph.D. student with Prof. Norman Sadeh, focusing on privacy policy analysis using LLMs.
+- **King’s College London** (UK, 2024): Visiting Ph.D. student with Prof. William Seymour and Prof. Jose Such, researching policy compliance in AI systems.
 
 ---
 
@@ -30,11 +39,11 @@ My research addresses three key layers of analysis in mobile privacy:
 - **What applications say they do:** I apply **LLMs and NLP techniques** to evaluate privacy policies at scale and detect inconsistencies.
 - **Who receives the data:** I investigate data recipients and cross-border transfers using network monitoring and IP geolocation strategies.
 
-My work has been published in leading venues like **PETs**, **Computing**, **Computers & Security**, and **IEEE Access**.
+My work has been published in leading venues like **PETS**, **Computing**, **Computers & Security**, and **IEEE Access**.
 
 ---
 
-### 🛠️ Projects
+### 🛠️ Research Projects
 
 I actively contribute to research projects such as:
 
@@ -60,8 +69,8 @@ Since 2023, I lecture in the second-year undergraduate course **Software Analysi
 I’ve presented my research at various international venues, including:
 
 - Invited talk at Queen Mary University of London (2024)
-- 🥈 *Second Best Presentation Award* at IWPE 2023
-- 🥇 *Best Presentation Award* at IWPE 2022 (IEEE EuroS&P Workshops)
+- 🥈 *Second Best Presentation Award* at IWPE 2023 (IEEE EuroS&P Workshop)
+- 🥇 *Best Presentation Award* at IWPE 2022 (IEEE EuroS&P Workshop)
 - Poster at SECRYPT 2022 in Lisbon
 
 

@@ -27,6 +27,22 @@ Work experience
   Member of the **STRAST** research group (Sistemas de Tiempo Real y Arquitectura de Servicios Telemáticos).
   Supervised by Professor José María del Álamo.
   
+Research Visits
+===============
+
+* **Carnegie Mellon University**, School of Computer Science — *Sep–Dec 2023*  
+  Visiting Ph.D. student under the supervision of Prof. Norman Sadeh (Pittsburgh, USA).  
+  Research collaboration on privacy policy analysis using large language models.
+    ⟶ This collaboration (starting on 2022) resulted in seven co-authored publications, including papers at PETS and high impact journals.
+
+* **King’s College London**, Department of Informatics — *Sep–Dec 2024*  
+  Visiting Ph.D. student working with Prof. William Seymour and Prof. Jose Such (London, UK).  
+  (Ongoing) research on evaluating policy compliance in custom GPT-based systems.
+
+Academic Service
+================
+* Publicity Chair, International Workshop on Privacy Engineering (IWPE 2025)
+
 Skills
 ======
 
