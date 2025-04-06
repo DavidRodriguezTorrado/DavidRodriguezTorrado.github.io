@@ -21,10 +21,23 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 
 ---
 
-### 🌍 International Research Experience
-
-- **Carnegie Mellon University** (USA, 2023): Visiting Ph.D. student with Prof. Norman Sadeh, focusing on privacy policy analysis using LLMs.
-- **King’s College London** (UK, 2024): Visiting Ph.D. student with Prof. William Seymour and Prof. Jose Such, researching policy compliance in AI systems.
+### 🌍 International Research Collaboration
+- **ETH Zurich** (Switzerland, since 2024)  
+  *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
+  - (Ongoing) Empirical research on on **large-scale multilingual analysis** of privacy policies to evaluate changes following the enforcement of the **New Federal Act on Data Protection (nFADP)**.  
+- **King’s College London** (UK, since 2024)  
+    *Visiting Ph.D. student* at the Department of Informatics, collaborating with Prof. William Seymour and Prof. Jose Such.  
+  - Conducted research on automated policy compliance in conversational AI systems, including the development of a framework to evaluate chatbot behaviors against organizational policies.  
+  - Research contributed to a joint publication currently under review at *ACM CCS25*.
+- **Carnegie Mellon University** (USA, since 2022)  
+  *Visiting Ph.D. student* at the School of Computer Science (2023), hosted by Prof. Norman Sadeh.  
+  - Focused on automating the analysis of privacy policies using Large Language Models.  
+  - Research collaboration resulted in **seven** joint publications, including papers at PETS and high impact journals.
+- **ETH Zurich** (Switzerland, since 2022)  
+  *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and Prof. Amit Zac at the *Center for Law & Economics*.  
+  - Contributed to empirical research on large-scale automated GDPR compliance auditing.  
+  - Co-authored a **working paper in progress**: *“The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”* (CLE Working Paper Series 01/2024).  
+    [DOI: 10.3929/ethz-b-000664943](https://doi.org/10.3929/ethz-b-000664943)
 
 ---
 
@@ -52,7 +65,7 @@ I actively contribute to research projects such as:
 
 ---
 
-### 🧑‍🏫 Teaching
+### 👨🏻‍🏫 Teaching
 
 Since 2023, I lecture in the second-year undergraduate course **Software Analysis and Design**, where I guide students through core software engineering techniques including:
 

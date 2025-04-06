@@ -14,8 +14,8 @@ Education
 ======
 * Ph.D in Privacy Engineering, Universidad Politécnica de Madrid, 2025 (expected)  
   Thesis: "Contributions to the automated assessment of ICT systems compliance with privacy and data protection requirements"
-* M.S. in Cybersecurity, Universidad Politécnica de Madrid, 2022
-* B.S. in Telecommunications Engineering, Universidad Politécnica de Madrid, 2021
+* M.Sc. in Cybersecurity, Universidad Politécnica de Madrid, 2022
+* B.Sc. in Telecommunications Engineering, Universidad Politécnica de Madrid, 2021
 
 Work experience
 ======
@@ -34,7 +34,6 @@ Research Visits
   Visiting Ph.D. student under the supervision of Prof. Norman Sadeh (Pittsburgh, USA).  
   Research collaboration on privacy policy analysis using large language models.
     ⟶ This collaboration (starting on 2022) resulted in seven co-authored publications, including papers at PETS and high impact journals.
-
 * **King’s College London**, Department of Informatics — *Sep–Dec 2024*  
   Visiting Ph.D. student working with Prof. William Seymour and Prof. Jose Such (London, UK).  
   (Ongoing) research on evaluating policy compliance in custom GPT-based systems.
