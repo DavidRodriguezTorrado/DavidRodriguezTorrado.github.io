@@ -24,7 +24,7 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 ### 🌍 International Research Collaboration
 - **ETH Zurich** (Switzerland, since 2024)  
   *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
-  - (Ongoing) Empirical research on on **large-scale multilingual analysis** of privacy policies to evaluate changes following the enforcement of the **New Federal Act on Data Protection (nFADP)**.  
+  - (Ongoing) Empirical research on on **large-scale multilingual analysis** of privacy policies to evaluate changes following the enforcement of the *New Federal Act on Data Protection (nFADP)*.  
 - **King’s College London** (UK, since 2024)  
     *Visiting Ph.D. student* at the Department of Informatics, collaborating with Prof. William Seymour and Prof. Jose Such.  
   - Conducted research on automated policy compliance in conversational AI systems, including the development of a framework to evaluate chatbot behaviors against organizational policies.  
