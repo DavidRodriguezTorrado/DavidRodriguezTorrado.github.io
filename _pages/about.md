@@ -67,7 +67,7 @@ The outcomes of this work have been published in leading venues like **PETs**, *
 
 I actively contribute to research projects such as:
 
-- **CEDAR** (Horizon Europe): Developing AI-based tools for public governance transparency, with a focus on data modeling and entity resolution.
+- **CEDAR** (Horizon Europe): Developing tools for improving public governance transparency, with a focus on knowledge graphs, data modeling and entity resolution.
 - **AutoGDPR**: Designing technical solutions to automate GDPR compliance assessment, with public impact in press and academia.
 
 ---
