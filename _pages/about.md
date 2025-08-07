@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m a Teaching Assistant and Ph.D. candidate in Privacy Engineering at the **Universidad Politécnica de Madrid (UPM)**, working within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
+Welcome! I’m Teaching Assistant and Ph.D. in Privacy Engineering at the **Universidad Politécnica de Madrid (UPM)**, working within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
 
 ---
 
 ### 🎓 About me
 
-Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year students at the **Escuela Técnica Superior de Ingenieros de Telecomunicación**, where I cover topics like software design, concurrent programming, and complexity analysis.
+Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year students at the **Escuela Técnica Superior de Ingenieros de Telecomunicación**, where I cover topics like software design, concurrent programming, and complexity analysis in Java.
 
-Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, related to GDPR compliance, privacy policy analysis, and data flow auditing. Today, I continue this work as my main research line.
+Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, focused on automating the assessment of GDPR compliance, by doing privacy policy analysis and data flow auditing. Today, I continue this work as my main research line.
 
 I currently serve as **Publicity Chair** for the [International Workshop on Privacy Engineering (IWPE 2025)](https://iwpe.info/), where I help coordinate outreach, promotion, and community engagement for the event.
 
@@ -34,7 +34,7 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
   - Focused on automating the analysis of privacy policies using Large Language Models.  
   - Research collaboration resulted in **seven** joint publications, including papers at PETS and high impact journals.
 - **ETH Zurich** (Switzerland, since 2022)  
-  *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and Prof. Amit Zac at the *Center for Law & Economics*.  
+  *Research collaborator* in an interdisciplinary project led by Prof. Amit Zac and Prof. Stefan Bechtold at the *Center for Law & Economics*.  
   - Contributed to empirical research on large-scale automated GDPR compliance auditing.  
   - Co-authored a **working paper in progress**: *“The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”* (CLE Working Paper Series 01/2024).  
     [DOI: 10.3929/ethz-b-000664943](https://doi.org/10.3929/ethz-b-000664943)
@@ -52,7 +52,7 @@ My research addresses three key layers of analysis in mobile privacy:
 - **What applications say they do:** I apply **LLMs and NLP techniques** to evaluate privacy policies at scale and detect inconsistencies.
 - **Who receives the data:** I investigate data recipients and cross-border transfers using network monitoring and IP geolocation strategies.
 
-My work has been published in leading venues like **PETS**, **Computing**, **Computers & Security**, and **IEEE Access**.
+My work has been published in leading venues like **PETs**, **Computing**, **Computers & Security**, and **IEEE Access**.
 
 ---
 
@@ -81,6 +81,7 @@ Since 2023, I lecture in the second-year undergraduate course **Software Analysi
 
 I’ve presented my research at various international venues, including:
 
+- Presentation at Privacy Enhancing Symposium 2025 (PETs)  
 - Invited talk at Queen Mary University of London (2024)
 - 🥈 *Second Best Presentation Award* at IWPE 2023 (IEEE EuroS&P Workshop)
 - Poster at CyLab Partners Conference 2023 (Carnegie Mellon University) 
