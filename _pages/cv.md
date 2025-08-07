@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Privacy Engineering, Universidad Politécnica de Madrid, 2025 (expected)  
+* Ph.D. in Privacy Engineering, Universidad Politécnica de Madrid, 2025  
   Thesis: "Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements"
 * M.Sc. in Cybersecurity, Universidad Politécnica de Madrid, 2022
 * B.Sc. in Telecommunications Engineering, Universidad Politécnica de Madrid, 2021
