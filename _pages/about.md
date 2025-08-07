@@ -50,13 +50,12 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 **Ph.D. in Privacy Engineering**, *Universidad Politécnica de Madrid (UPM)*.  
 *Defended on July 8, 2025, with the highest honors (cum laude) and international doctorate distinction.*  
 
-**Thesis title:**  
-*Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
+**Thesis title**: *Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
 
 My research addresses three key layers of analysis in mobile privacy:
 
 - **What applications do:** I perform dynamic and static analyses of Android apps to identify privacy-impacting behavior, using tools like Frida and mitmproxy.
-- **What applications say they do:** I apply **LLMs and NLP techniques** to evaluate privacy policies at scale and detect inconsistencies.
+- **What applications say they do:** I apply **LLMs and NLP techniques** to evaluate privacy policies at scale and detect inconsistencies with behavior.
 - **Who receives the data:** I investigate data recipients and cross-border transfers using network monitoring and IP geolocation strategies.
 
 The outcomes of this work have been published in leading venues like **PETs**, **Computing**, **Computers & Security**, and **IEEE Access**.
