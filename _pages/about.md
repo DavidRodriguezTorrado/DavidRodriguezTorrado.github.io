@@ -22,13 +22,18 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 ---
 
 ### 🌍 International Research Collaboration
+- **Escuela Politécnica Nacional (EPN, Quito), since 2024**  
+  *Co-researcher* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.  
+  - Presenting a method for automatically annotating privacy policies using GPT-4o, integrating a carefully designed prompt, a human-created codebook, and logprobs analysis to approach expert-level annotation quality.  
+  - Demonstrated that GPT-4o can perform multi-label, multi-class annotation of privacy policies with performance close to 80–90% of human annotators, greatly reducing manual effort.  
+  - The results are currently under review for publication ([Preprint DOI: 10.21203/rs.3.rs-5799153/v1](https://doi.org/10.21203/rs.3.rs-5799153/v1)), and the annotated corpora will be made publicly available upon acceptance of the article.
 - **ETH Zurich** (Switzerland, since 2024)  
   *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
   - (Ongoing) Empirical research on on **large-scale multilingual analysis** of privacy policies to evaluate changes following the enforcement of the *New Federal Act on Data Protection (nFADP)*.  
 - **King’s College London** (UK, since 2024)  
     *Visiting Ph.D. student* at the Department of Informatics, collaborating with Prof. William Seymour and Prof. Jose Such.  
   - Conducted research on automated policy compliance in conversational AI systems, including the development of a framework to evaluate chatbot behaviors against organizational policies.  
-  - Research contributed to a joint publication currently under review at *ACM CCS25*.
+  - Research contributed to a joint publication currently under review.
 - **Carnegie Mellon University** (USA, since 2022)  
   *Visiting Ph.D. student* at the School of Computer Science (2023), hosted by Prof. Norman Sadeh.  
   - Focused on automating the analysis of privacy policies using Large Language Models.  
@@ -43,6 +48,9 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 
 ### 🧪 Ph.D. Research
 
+**Ph.D. in Privacy Engineering**, *Universidad Politécnica de Madrid (UPM)*
+*Defended on July 8, 2025, with the highest honors (cum laude) and international doctorate distinction*
+
 **Thesis title:**  
 *Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
 
@@ -52,7 +60,7 @@ My research addresses three key layers of analysis in mobile privacy:
 - **What applications say they do:** I apply **LLMs and NLP techniques** to evaluate privacy policies at scale and detect inconsistencies.
 - **Who receives the data:** I investigate data recipients and cross-border transfers using network monitoring and IP geolocation strategies.
 
-My work has been published in leading venues like **PETs**, **Computing**, **Computers & Security**, and **IEEE Access**.
+The outcomes of this work have been published in leading venues like **PETs**, **Computing**, **Computers & Security**, and **IEEE Access**.
 
 ---
 
@@ -81,10 +89,10 @@ Since 2023, I lecture in the second-year undergraduate course **Software Analysi
 
 I’ve presented my research at various international venues, including:
 
-- Presentation at Privacy Enhancing Symposium 2025 (PETs)  
-- Invited talk at Queen Mary University of London (2024)
+- Paper presentation at Privacy Enhancing Symposium 2025 (PETs)  
+- Invited talk at Queen Mary University of London in 2024
 - 🥈 *Second Best Presentation Award* at IWPE 2023 (IEEE EuroS&P Workshop)
-- Poster at CyLab Partners Conference 2023 (Carnegie Mellon University) 
+- Poster at CyLab Partners Conference 2023 (*Carnegie Mellon University*) 
 - 🥇 *Best Presentation Award* at IWPE 2022 (IEEE EuroS&P Workshop)
 - Poster at SECRYPT 2022 in Lisbon
 
