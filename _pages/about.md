@@ -23,8 +23,7 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 
 ### 🌍 International Research Collaboration
 - **Escuela Politécnica Nacional** (Ecuador), since 2024  
-  *Co-researcher* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.  
-  - Presenting a method for automatically annotating privacy policies using GPT-4o, integrating a carefully designed prompt, a human-created codebook, and logprobs analysis to approach expert-level annotation quality.  
+  *Co-researcher* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.   
   - Demonstrated that GPT-4o can perform multi-label, multi-class annotation of privacy policies with performance close to 80–90% of human annotators, greatly reducing manual effort.  
   - The results are currently under review for publication ([Preprint DOI: 10.21203/rs.3.rs-5799153/v1](https://doi.org/10.21203/rs.3.rs-5799153/v1)), and the annotated corpora will be made publicly available upon acceptance of the article.
 - **ETH Zurich** (Switzerland), since 2024  
