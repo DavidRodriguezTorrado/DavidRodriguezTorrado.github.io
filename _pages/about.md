@@ -47,8 +47,8 @@ I currently serve as **Publicity Chair** for the [International Workshop on Priv
 
 ### 🧪 Ph.D. Research
 
-**Ph.D. in Privacy Engineering**, *Universidad Politécnica de Madrid (UPM).*  
-*Defended on July 8, 2025, with the highest honors (cum laude) and international doctorate distinction*  
+**Ph.D. in Privacy Engineering**, *Universidad Politécnica de Madrid (UPM)*.  
+*Defended on July 8, 2025, with the highest honors (cum laude) and international doctorate distinction.*  
 
 **Thesis title:**  
 *Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
