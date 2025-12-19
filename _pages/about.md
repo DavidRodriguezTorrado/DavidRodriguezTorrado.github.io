@@ -18,9 +18,7 @@ Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year stude
 
 Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, focused on automating the assessment of GDPR compliance, by doing privacy policy analysis and data flow auditing. Today, I continue this work as my main research line.
 
-I currently serve as **Publicity Chair** for the [International Workshop on Privacy Engineering (IWPE 2025)](https://iwpe.info/), where I help coordinate outreach, promotion, and community engagement for the event.
-
-Este mensaje es secreto, número 23.
+I currently serve as **Organizer** for the [International Workshop on Privacy Engineering (IWPE 2026)](https://iwpe.info/), contributing to the planning, coordination, and execution of the event.
 
 ---
 
