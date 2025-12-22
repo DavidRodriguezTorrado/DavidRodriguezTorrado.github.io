@@ -33,7 +33,8 @@ I currently serve as **Organizer** for the [International Workshop on Privacy En
 - 🇬🇧 **King’s College London** (UK), 2024-2025  
     *Visiting Ph.D. student* at the Department of Informatics, collaborating with Prof. William Seymour and Prof. Jose Such.  
   - Conducted research on automated policy compliance in conversational AI systems, including the development of a framework to evaluate chatbot behaviors against organizational policies.  
-  - Research contributed to a joint publication currently under review.
+  - The collaboration resulted in the paper “Towards Safer Chatbots: Automated Policy Compliance Evaluation of Custom GPTs”, published in *Array* Journal, Volume 30 (2026), Article 100834 ([DOI: 10.1016/j.array.2026.100834](https://doi.org/10.1016/j.array.2026.100834)).
+  - The paper presents a black-box, automated auditing method for Custom GPTs, combining GPT Store discovery, policy-driven red-teaming prompts, and LLM-as-a-judge compliance assessment. Applied to 782 Custom GPTs, it found that 58.7% produced at least one policy-violating response across Romantic, Cybersecurity, and Academic policy domains.
 - 🇺🇸 **Carnegie Mellon University** (USA), since 2022  
   *Visiting Ph.D. student* at the School of Computer Science (2023), hosted by Prof. Norman Sadeh.  
   - Focused on automating the analysis of privacy policies using Large Language Models.  
