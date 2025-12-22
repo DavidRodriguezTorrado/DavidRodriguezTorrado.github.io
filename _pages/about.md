@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m Assistant Professor and Ph.D. in Privacy Engineering at the **Universidad Politécnica de Madrid (UPM)**, member of the Information Processing and Telecommunications Center ([IPTC](https://iptc.upm.es/)) and working within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
+Welcome! I’m Assistant Professor and hold a Ph.D. in Privacy Engineering at the **Universidad Politécnica de Madrid (UPM)**, member of the Information Processing and Telecommunications Center ([IPTC](https://iptc.upm.es/)) and working within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
 
 
 ---
