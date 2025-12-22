@@ -1,0 +1,26 @@
+---
+title: "GPT vs Human Legal Text Annotations: A Comparative Study with Privacy Policies"
+collection: publications
+permalink: /publication/gpt-vs-human-legal-annotations
+date: 2025-10-17
+venue: "Artificial Intelligence and Law"
+citation: 'D. Cevallos-Salas, J. Estrada-Jiménez, D. S. Guamán, D. Rodriguez, Jose M. Del Alamo. "GPT vs Human Legal Text Annotations: A Comparative Study with Privacy Policies." <i>Artificial Intelligence and Law</i>, 2025. https://doi.org/10.1007/s10506-025-09488-0'
+type: 'journal'
+category: journals
+paperurl: 'https://doi.org/10.1007/s10506-025-09488-0'
+doi: 'https://doi.org/10.1007/s10506-025-09488-0'
+excerpt: 'This article studies whether GPT models can reliably annotate privacy policies under a multi-label, multi-class legal taxonomy, benchmarking LLM-driven annotations against human annotators and showing near-human performance under controlled prompting and validation.'
+---
+
+### Abstract
+
+High-quality corpora of annotated privacy policies are essential to train and evaluate automated compliance and privacy-policy analysis methods, yet producing such corpora is expensive, slow, and dependent on scarce expert annotators. This article investigates whether large language models can meaningfully reduce this bottleneck by performing privacy-policy annotation under a multi-label, multi-class legal taxonomy. It proposes a structured annotation approach grounded in a codebook and carefully designed prompts, and it examines how token-level confidence signals (via output probabilities) can support robust labeling decisions. Experimental results indicate that GPT-based annotation can reach performance levels close to human annotators across different granularities, suggesting a practical path to accelerate the creation of privacy-policy corpora while preserving annotation quality.
+
+### Key Contributions
+
+- Proposes a **codebook-guided** approach to privacy-policy annotation using well-structured prompts and controlled outputs.  
+- Introduces the use of **log-probability analysis** to support annotation decisions and improve reliability of model outputs.  
+- Provides an empirical comparison of **LLM vs. human annotation quality** on privacy-policy labeling tasks, reporting near-human performance depending on the evaluation setting and granularity.  
+- Demonstrates how LLM-based annotation can **reduce the manual effort** required to build privacy-policy corpora suitable for downstream ML evaluation.  
+
+👉 [Read the full paper](https://doi.org/10.1007/s10506-025-09488-0)

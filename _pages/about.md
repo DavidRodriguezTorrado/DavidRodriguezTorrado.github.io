@@ -23,14 +23,14 @@ I currently serve as **Organizer** for the [International Workshop on Privacy En
 ---
 
 ### 🌍 International Research Collaboration
-- **Escuela Politécnica Nacional** (Ecuador), since 2024  
-  *Co-researcher* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.   
-  - Demonstrated that GPT-4o can perform multi-label, multi-class annotation of privacy policies with performance close to 80–90% of human annotators, greatly reducing manual effort.  
-  - The results are currently under review for publication ([Preprint DOI: 10.21203/rs.3.rs-5799153/v1](https://doi.org/10.21203/rs.3.rs-5799153/v1)), and the annotated corpora will be made publicly available upon acceptance of the article.
 - **ETH Zurich** (Switzerland), since 2024  
-  *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
-  - (Ongoing) Empirical research on on **large-scale multilingual analysis** of privacy policies to evaluate changes following the enforcement of the *New Federal Act on Data Protection (nFADP)*.  
-- **King’s College London** (UK), since 2024  
+  *Invited Postdoctoral Researcher* and *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
+  - Empirical research on large-scale multilingual analysis of privacy policies to assess regulatory impact following the enforcement of the New Federal Act on Data Protection (nFADP); results are available as an [arXiv preprint](https://arxiv.org/abs/2510.05860) and are currently under peer review. 
+- **Escuela Politécnica Nacional** (Ecuador), since 2024  
+  *Co-author* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.   
+  - Demonstrated that GPT-4o can perform multi-label, multi-class annotation of privacy policies with performance close to 80–90% of human annotators, greatly reducing manual effort.  
+  - The results have been formally published in *Artificial Intelligence and Law* Journal ([DOI: 10.1007/s10506-025-09488-0](https://doi.org/10.1007/s10506-025-09488-0)).
+- **King’s College London** (UK), 2024-2025  
     *Visiting Ph.D. student* at the Department of Informatics, collaborating with Prof. William Seymour and Prof. Jose Such.  
   - Conducted research on automated policy compliance in conversational AI systems, including the development of a framework to evaluate chatbot behaviors against organizational policies.  
   - Research contributed to a joint publication currently under review.
@@ -38,11 +38,13 @@ I currently serve as **Organizer** for the [International Workshop on Privacy En
   *Visiting Ph.D. student* at the School of Computer Science (2023), hosted by Prof. Norman Sadeh.  
   - Focused on automating the analysis of privacy policies using Large Language Models.  
   - Research collaboration resulted in **seven** joint publications, including papers at PETS and high impact journals.
-- **ETH Zurich** (Switzerland), since 2022  
+- **ETH Zurich** (Switzerland), 2022-2025  
   *Research collaborator* in an interdisciplinary project led by Prof. Amit Zac and Prof. Stefan Bechtold at the *Center for Law & Economics*.  
   - Contributed to empirical research on large-scale automated GDPR compliance auditing.  
-  - Co-authored a **working paper in progress**: *“The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”* (CLE Working Paper Series 01/2024).  
-    [DOI: 10.3929/ethz-b-000664943](https://doi.org/10.3929/ethz-b-000664943)
+  - Co-authored *“The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”*, accepted for publication in the Journal of Legal Studies (University of Chicago), scheduled to appear in June 2026 (Vol. 55, No. 2).
+- **Escuela Politécnica Nacional and King's College London**, (Ecuador and UK) 2022-2023  
+  *Co-author* of a joint research effort on the automated assessment of GDPR compliance for cross-border personal data transfers in Android applications, in colaboration with Prof. Danny S. Guamán and Prof. Jose Such.
+  - The collaboration resulted in the paper “Automated GDPR Compliance Assessment for Cross-Border Personal Data Transfers in Android Applications”, which presents a large-scale empirical analysis combining dynamic traffic interception and legal interpretation of international data transfers. Published in *Computers & Security* Journal ([DOI: 10.1016/j.cose.2023.103262](https://doi.org/10.1016/j.cose.2023.103262)).
 
 ---
 
@@ -87,7 +89,7 @@ Since 2023, I lecture in the second-year undergraduate course **Software Analysi
 ### 🎤 Presentations
 
 I’ve presented my research at various international venues, including:
-
+- Invited speaker at *“Privacy and Accountability in the Femtech Industry in Europe”*, co-organized by Ius Omnibus and Universidad Complutense de Madrid, with support from the Digital Freedom Fund, December 18, 2025.
 - Paper presentation at Privacy Enhancing Symposium 2025 (PETs)  
 - Invited talk at Queen Mary University of London in 2024
 - 🥈 *Second Best Presentation Award* at IWPE 2023 (IEEE EuroS&P Workshop)
