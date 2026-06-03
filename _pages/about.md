@@ -91,6 +91,7 @@ Since 2023, I lecture in the second-year undergraduate course **Software Analysi
 ### 🎤 Presentations
 
 I’ve presented my research at various international venues, including:
+- Invited speaker at the *SPRINT Workshop on AI Security and Privacy 2026* in Valencia, Spain, with invited-speaker travel support, presenting “From Claims to Reality: Measuring Data Protection Compliance in Mobile Apps”, March 12, 2026.
 - Invited speaker at *“Privacy and Accountability in the Femtech Industry in Europe”*, co-organized by Ius Omnibus and Universidad Complutense de Madrid, with support from the Digital Freedom Fund, December 18, 2025.
 - Paper presentation at Privacy Enhancing Symposium 2025 (PETs)  
 - Invited talk at Queen Mary University of London in 2024
