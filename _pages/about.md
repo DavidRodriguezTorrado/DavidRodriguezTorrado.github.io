@@ -25,8 +25,8 @@ I currently serve as **Program Co-Chair** for the [International Workshop on Pri
 ### 🌍 International Research Collaboration
 - 🇨🇭 **ETH Zurich** (Switzerland), since 2024  
   *Invited Postdoctoral Researcher* and *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
-  - Conducted empirical research on large-scale multilingual privacy policy analysis to assess regulatory impact following the enforcement of the New Federal Act on Data Protection (nFADP).  
-  - The results are available as an [arXiv preprint](https://arxiv.org/abs/2510.05860) and are currently under peer review.
+  - Conducted empirical research on large-scale multilingual privacy policy analysis to assess the impact of Switzerland's 2023 Federal Act on Data Protection (FADP) revision, developing an LLM-based pipeline that analyzes German, French, Italian, and English privacy policies without translation. The study analyzes privacy policies from more than 35,000 Swiss- and EU-facing websites and finds significant increases in data-subject-right disclosures after the reform.
+  - The collaboration resulted in the paper “Overcoming Language Barriers: Multilingual Analysis of the Impact of a 2023 Swiss Privacy Law Revision”, accepted at *Proceedings on Privacy Enhancing Technologies* (PETS), 2026(4).
 - 🇪🇨 **Escuela Politécnica Nacional** (Ecuador), since 2024  
   *Co-author* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.   
   - Demonstrated that GPT-4o can perform multi-label, multi-class annotation of privacy policies with performance close to 80–90% of human annotators, greatly reducing manual effort.  
