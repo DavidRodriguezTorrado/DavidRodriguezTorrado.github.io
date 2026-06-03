@@ -41,11 +41,11 @@ I currently serve as **Program Co-Chair** for the [International Workshop on Pri
   - The collaboration resulted in **seven** joint publications, including “Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs” (*Proceedings on Privacy Enhancing Technologies*, 2025), “Large Language Models: A New Approach for Privacy Policy Analysis at Scale” (*Computing*, 2024), “Sharing is Not Always Caring” (*IEEE Access*, 2024), and several IEEE EuroS&P Workshop papers on privacy labels and data retention.
 - 🇨🇭 **ETH Zurich** (Switzerland), 2022-2025  
   *Research collaborator* in an interdisciplinary project led by Prof. Amit Zac and Prof. Stefan Bechtold at the *Center for Law & Economics*.  
-  - Contributed to empirical research on large-scale automated GDPR compliance auditing, combining legal analysis and computational methods to study whether privacy policies meaningfully respond to regulatory and judicial requirements.  
-  - The collaboration resulted in the paper “The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”, accepted for publication in the *Journal of Legal Studies* (University of Chicago), scheduled to appear in June 2026 (Vol. 55, No. 2).
+  - Studied hidden noncompliance in digital markets by comparing what firms disclose in privacy policies with what their apps actually do. Using the Schrems II ruling as a natural experiment, the study analyzed more than 2,500 Android apps and showed that policy-based legal analysis can miss over 70% of observed privacy violations.
+  - The collaboration resulted in the paper “Digital Markets and Hidden Noncompliance”, published in the *Journal of Legal Studies* (University of Chicago), Volume 55, Issue 2 (June 2026).
 - 🇪🇨🇬🇧 **Escuela Politécnica Nacional and King's College London**, (Ecuador and UK) 2022-2023  
-  *Co-author* of a joint research effort on the automated assessment of GDPR compliance for cross-border personal data transfers in Android applications, in collaboration with Prof. Danny S. Guamán and Prof. Jose Such.
-  - Developed an automated GDPR compliance assessment pipeline for cross-border personal data transfers in Android apps, combining dynamic traffic interception, IP geolocation, privacy policy analysis, and legal interpretation of international transfers.  
+  *Co-author* in collaboration with Prof. Danny S. Guamán and Prof. Jose Such.
+  - Developed an automated GDPR compliance assessment pipeline for cross-border personal data transfers in Android apps, combining dynamic traffic interception, IP geolocation, privacy policy analysis, and legal interpretation. Applied to 4,593 popular Android apps, the study found that many apps transferring personal data internationally failed to fully satisfy GDPR transparency obligations.
   - The collaboration resulted in the paper “Automated GDPR Compliance Assessment for Cross-Border Personal Data Transfers in Android Applications”, published in *Computers & Security*, Volume 130 (2023), Article 103262 ([DOI: 10.1016/j.cose.2023.103262](https://doi.org/10.1016/j.cose.2023.103262)).
 
 ---
