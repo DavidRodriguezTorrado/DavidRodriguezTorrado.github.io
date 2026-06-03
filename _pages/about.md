@@ -18,14 +18,15 @@ Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year stude
 
 Between 2021 and 2023, I worked as a Research Assistant at UPM, contributing to the nationally funded research project **AutoGDPR**, focused on automating the assessment of GDPR compliance, by doing privacy policy analysis and data flow auditing. Today, I continue this work as my main research line.
 
-I currently serve as **Organizer** for the [International Workshop on Privacy Engineering (IWPE 2026)](https://iwpe.info/), contributing to the planning, coordination, and execution of the event.
+I currently serve as **Program Co-Chair** for the [International Workshop on Privacy Engineering (IWPE 2026)](https://iwpe.info/), co-located with the IEEE European Symposium on Security and Privacy, contributing to the technical program, paper review process, and workshop coordination.
 
 ---
 
 ### 🌍 International Research Collaboration
 - 🇨🇭 **ETH Zurich** (Switzerland), since 2024  
   *Invited Postdoctoral Researcher* and *Research collaborator* in an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic at the *Center for Law & Economics*.  
-  - Empirical research on large-scale multilingual analysis of privacy policies to assess regulatory impact following the enforcement of the New Federal Act on Data Protection (nFADP); results are available as an [arXiv preprint](https://arxiv.org/abs/2510.05860) and are currently under peer review. 
+  - Conducted empirical research on large-scale multilingual privacy policy analysis to assess regulatory impact following the enforcement of the New Federal Act on Data Protection (nFADP).  
+  - The results are available as an [arXiv preprint](https://arxiv.org/abs/2510.05860) and are currently under peer review.
 - 🇪🇨 **Escuela Politécnica Nacional** (Ecuador), since 2024  
   *Co-author* in an international project on the automated annotation of legal texts, in collaboration with Prof. Danny S. Guamán and Prof. José Estrada.   
   - Demonstrated that GPT-4o can perform multi-label, multi-class annotation of privacy policies with performance close to 80–90% of human annotators, greatly reducing manual effort.  
@@ -36,15 +37,16 @@ I currently serve as **Organizer** for the [International Workshop on Privacy En
   - The collaboration resulted in the paper “Towards Safer Chatbots: Automated Policy Compliance Evaluation of Custom GPTs”, published in *Array* Journal, Volume 30 (2026), Article 100834 ([DOI: 10.1016/j.array.2026.100834](https://doi.org/10.1016/j.array.2026.100834)).
 - 🇺🇸 **Carnegie Mellon University** (USA), since 2022  
   *Visiting Ph.D. student* at the School of Computer Science (2023), hosted by Prof. Norman Sadeh.  
-  - Focused on automating the analysis of privacy policies using Large Language Models.  
-  - Research collaboration resulted in **seven** joint publications, including papers at PETS and high impact journals.
+  - Conducted research on large-scale mobile privacy auditing, combining LLM-based privacy policy analysis, privacy label comparison, data retention compliance assessment, and static/dynamic analysis of third-party library privacy settings. This work produced evidence of widespread disclosure gaps across app stores, privacy policies, privacy labels, and SDK configurations.
+  - The collaboration resulted in **seven** joint publications, including “Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs” (*Proceedings on Privacy Enhancing Technologies*, 2025), “Large Language Models: A New Approach for Privacy Policy Analysis at Scale” (*Computing*, 2024), “Sharing is Not Always Caring” (*IEEE Access*, 2024), and several IEEE EuroS&P Workshop papers on privacy labels and data retention.
 - 🇨🇭 **ETH Zurich** (Switzerland), 2022-2025  
   *Research collaborator* in an interdisciplinary project led by Prof. Amit Zac and Prof. Stefan Bechtold at the *Center for Law & Economics*.  
-  - Contributed to empirical research on large-scale automated GDPR compliance auditing.  
-  - Co-authored *“The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”*, accepted for publication in the Journal of Legal Studies (University of Chicago), scheduled to appear in June 2026 (Vol. 55, No. 2).
+  - Contributed to empirical research on large-scale automated GDPR compliance auditing, combining legal analysis and computational methods to study whether privacy policies meaningfully respond to regulatory and judicial requirements.  
+  - The collaboration resulted in the paper “The Court Speaks, But Who Listens? Automated Compliance Review of the GDPR”, accepted for publication in the *Journal of Legal Studies* (University of Chicago), scheduled to appear in June 2026 (Vol. 55, No. 2).
 - 🇪🇨🇬🇧 **Escuela Politécnica Nacional and King's College London**, (Ecuador and UK) 2022-2023  
-  *Co-author* of a joint research effort on the automated assessment of GDPR compliance for cross-border personal data transfers in Android applications, in colaboration with Prof. Danny S. Guamán and Prof. Jose Such.
-  - The collaboration resulted in the paper “Automated GDPR Compliance Assessment for Cross-Border Personal Data Transfers in Android Applications”, which presents a large-scale empirical analysis combining dynamic traffic interception and legal interpretation of international data transfers. Published in *Computers & Security* Journal ([DOI: 10.1016/j.cose.2023.103262](https://doi.org/10.1016/j.cose.2023.103262)).
+  *Co-author* of a joint research effort on the automated assessment of GDPR compliance for cross-border personal data transfers in Android applications, in collaboration with Prof. Danny S. Guamán and Prof. Jose Such.
+  - Developed an automated GDPR compliance assessment pipeline for cross-border personal data transfers in Android apps, combining dynamic traffic interception, IP geolocation, privacy policy analysis, and legal interpretation of international transfers.  
+  - The collaboration resulted in the paper “Automated GDPR Compliance Assessment for Cross-Border Personal Data Transfers in Android Applications”, published in *Computers & Security*, Volume 130 (2023), Article 103262 ([DOI: 10.1016/j.cose.2023.103262](https://doi.org/10.1016/j.cose.2023.103262)).
 
 ---
 

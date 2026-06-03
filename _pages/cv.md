@@ -40,10 +40,11 @@ Research Visits
     ⟶ This collaboration (starting on 2022) resulted in seven co-authored publications, including papers at PETS and high impact journals.
 * **King’s College London**, Department of Informatics — (*Sep–Dec 2024*)  
   Visiting Ph.D. student working with Prof. [William Seymour](https://wseymour.co.uk/) and Prof. [Jose Such](https://www.kcl.ac.uk/people/jose-such) (London, UK).  
-  (Ongoing) research on evaluating policy compliance in custom GPT-based systems.
+  Research on automated policy compliance evaluation in custom GPT-based systems, resulting in a publication in *Array*.
 
 Academic Service
 ================
+* Program Co-Chair, International Workshop on Privacy Engineering (IWPE 2026)
 * Publicity Chair, International Workshop on Privacy Engineering (IWPE 2025)
 
 Skills
