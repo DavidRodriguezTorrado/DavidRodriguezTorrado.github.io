@@ -1,14 +1,15 @@
 ---
-title: "Overcoming Language Barriers: Multilingual Analysis of the Impact of a 2023 Swiss Privacy Law Revision"
+title: "Overcoming Language Barriers: Multilingual Analysis of the 2023 Swiss Privacy Law's Impact"
 collection: publications
 permalink: /publication/overcoming-language-barriers-swiss-privacy-law
-date: 2026-06-03
-venue: 'Proceedings on Privacy Enhancing Technologies, 2026(4)'
-citation: 'L. Nenadic, D. Rodriguez, J.A. Calandrino. "Overcoming Language Barriers: Multilingual Analysis of the Impact of a 2023 Swiss Privacy Law Revision." <i>Proceedings on Privacy Enhancing Technologies</i>, 2026(4).'
+date: 2026-07-14
+venue: 'Proceedings on Privacy Enhancing Technologies, 2026(4), 703-723'
+citation: "L. Nenadic, D. Rodriguez, J.A. Calandrino. \"Overcoming Language Barriers: Multilingual Analysis of the 2023 Swiss Privacy Law's Impact.\" <i>Proceedings on Privacy Enhancing Technologies</i>, 2026(4), 703-723. https://doi.org/10.56553/popets-2026-0141"
 type: 'conference'
 category: conference
 featured: true
-paperurl: 'https://arxiv.org/abs/2510.05860'
+paperurl: 'https://petsymposium.org/popets/2026/popets-2026-0141.pdf'
+doi: 'https://doi.org/10.56553/popets-2026-0141'
 excerpt: 'This paper studies the real-world impact of Switzerland’s 2023 privacy law revision using a multilingual LLM-based pipeline for privacy policy analysis. Applied to policies from more than 35,000 Swiss- and EU-facing websites, it finds significant increases in data-subject-right disclosures and highlights the role of automated privacy policy generators.'
 ---
 
@@ -28,5 +29,5 @@ Applying the method to privacy policies collected from more than 35,000 Swiss- a
 - Analyzes more than 35,000 Swiss- and EU-facing websites before and after the reform.
 - Shows that automated privacy policy generators are widely used and associated with higher disclosure rates.
 
-👉 [Read the preprint](https://arxiv.org/abs/2510.05860)
-
+👉 [Read the full paper (PDF)](https://petsymposium.org/popets/2026/popets-2026-0141.pdf)  
+📌 [DOI: 10.56553/popets-2026-0141](https://doi.org/10.56553/popets-2026-0141)
