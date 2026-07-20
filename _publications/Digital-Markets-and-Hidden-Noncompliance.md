@@ -3,11 +3,12 @@ title: "Digital Markets and Hidden Noncompliance"
 collection: publications
 permalink: /publication/digital-markets-hidden-noncompliance
 date: 2026-06-01
-venue: 'Journal of Legal Studies, Volume 55, Issue 2 (June 2026)'
-citation: 'A. Zac, S. Bechtold, P. Wey, D. Rodríguez, J.M. Del Alamo. "Digital Markets and Hidden Noncompliance." <i>Journal of Legal Studies</i>, 55(2), 2026.'
+venue: 'Journal of Legal Studies, Volume 55, Issue 2, Pages 433-461 (June 2026)'
+citation: 'A. Zac, S. Bechtold, P. Wey, D. Rodríguez, J.M. Del Alamo. "Digital Markets and Hidden Noncompliance." <i>Journal of Legal Studies</i>, 55(2), 433-461, 2026. https://doi.org/10.1086/742146'
 type: 'journal'
 category: journals
-paperurl: 'https://ssrn.com/abstract=4709913'
+paperurl: 'https://www.journals.uchicago.edu/doi/pdf/10.1086/742146?download=true'
+doi: 'https://doi.org/10.1086/742146'
 excerpt: 'This article studies hidden noncompliance in digital markets by comparing privacy policy disclosures with observed app data flows. Analyzing more than 2,500 Android apps after Schrems II, it shows that traditional policy-based empirical legal methods may miss over 70% of observed privacy violations.'
 ---
 
@@ -27,5 +28,5 @@ The results show a substantial gap between disclosure-based and behavior-based c
 - Shows that policy-based legal analysis can substantially underestimate actual noncompliance.
 - Highlights the need for regulatory methods that account for limited observability and information asymmetry in digital markets.
 
-👉 [Read the paper on SSRN](https://ssrn.com/abstract=4709913)
-
+👉 [Read the full paper (PDF)](https://www.journals.uchicago.edu/doi/pdf/10.1086/742146?download=true)  
+📌 [DOI: 10.1086/742146](https://doi.org/10.1086/742146)

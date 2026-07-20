@@ -42,7 +42,7 @@ I currently serve as **Program Co-Chair** for the [International Workshop on Pri
 - 🇨🇭 **ETH Zurich** (Switzerland), 2022-2025  
   *Research collaborator* in an interdisciplinary project led by Prof. Amit Zac and Prof. Stefan Bechtold at the *Center for Law & Economics*.  
   - Studied hidden noncompliance in digital markets by comparing what firms disclose in privacy policies with what their apps actually do. Using the Schrems II ruling as a natural experiment, the study analyzed more than 2,500 Android apps and showed that policy-based legal analysis can miss over 70% of observed privacy violations.
-  - The collaboration resulted in the paper “Digital Markets and Hidden Noncompliance”, published in the *Journal of Legal Studies* (University of Chicago), Volume 55, Issue 2 (June 2026).
+  - The collaboration resulted in the paper “Digital Markets and Hidden Noncompliance”, published in the *Journal of Legal Studies* (University of Chicago), Volume 55, Issue 2 (June 2026), pp. 433-461 ([DOI: 10.1086/742146](https://doi.org/10.1086/742146)).
 - 🇪🇨🇬🇧 **Escuela Politécnica Nacional and King's College London**, (Ecuador and UK) 2022-2023  
   *Co-author* in collaboration with Prof. Danny S. Guamán and Prof. Jose Such.
   - Developed an automated GDPR compliance assessment pipeline for cross-border personal data transfers in Android apps, combining dynamic traffic interception, IP geolocation, privacy policy analysis, and legal interpretation. Applied to 4,593 popular Android apps, the study found that many apps transferring personal data internationally failed to fully satisfy GDPR transparency obligations.
