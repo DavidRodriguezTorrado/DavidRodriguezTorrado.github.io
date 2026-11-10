@@ -17,6 +17,12 @@ Education
 * M.Sc. in Cybersecurity, Universidad Politécnica de Madrid, 2022
 * B.Sc. in Telecommunications Engineering, Universidad Politécnica de Madrid, 2021
 
+Honors and Awards
+======
+* **Outstanding Doctoral Thesis Award**, UPM — **2024–2025 academic year**.
+* **Second Best Presentation Award**, International Workshop on Privacy Engineering (IWPE) — **2023**.
+* **Best Presentation Award**, International Workshop on Privacy Engineering (IWPE) — **2022**.
+
 Work experience
 ======
 * **Assistant Professor**, Universidad Politécnica de Madrid — (*2025 – Present*)  

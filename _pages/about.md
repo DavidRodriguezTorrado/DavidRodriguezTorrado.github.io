@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m Assistant Professor and hold a Ph.D. in Privacy Engineering at the **Universidad Politécnica de Madrid (UPM)**, member of the Information Processing and Telecommunications Center ([IPTC](https://iptc.upm.es/)) and working within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
-
+Welcome! I’m an Assistant Professor at the **Universidad Politécnica de Madrid (UPM)** and hold a Ph.D. in Privacy Engineering, awarded UPM’s **Outstanding Doctoral Thesis Award**. I’m a member of the Information Processing and Telecommunications Center ([IPTC](https://iptc.upm.es/)) and work within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
 
 ---
 
@@ -53,7 +52,7 @@ I currently serve as **Program Co-Chair** for the [International Workshop on Pri
 ### 🧪 Ph.D. Research
 
 **Ph.D. in Privacy Engineering**, *Universidad Politécnica de Madrid (UPM)*.  
-*Defended on July 8, 2025, with the highest honors (cum laude) and international doctorate distinction.*  
+Defended on July 8, 2025, with *cum laude* honors and an international doctorate distinction, and received UPM’s **Outstanding Doctoral Thesis Award**.
 
 **Thesis title**: *Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
 
