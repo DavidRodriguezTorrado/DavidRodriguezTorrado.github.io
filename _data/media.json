@@ -57,7 +57,8 @@
       "source_notes": "Nota institucional original",
       "date_label": "19 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-002",
@@ -77,7 +78,8 @@
       "source_notes": "",
       "date_label": "February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-003",
@@ -97,7 +99,8 @@
       "source_notes": "Puede redirigir a noticia UPM; no contar como cabecera de prensa independiente",
       "date_label": "February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-004",
@@ -117,7 +120,8 @@
       "source_notes": "La ficha aparece retirada/withdrawn actualmente; conservar captura si existe",
       "date_label": "22 February 2024",
       "country_label": "International",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "International"
     },
     {
       "id": "media-005",
@@ -137,7 +141,8 @@
       "source_notes": "",
       "date_label": "21 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-006",
@@ -158,7 +163,8 @@
       "date_label": "19 February 2024",
       "country_label": "Spain",
       "highlight_text": "National newspaper coverage of my Android privacy study with UPM and Carnegie Mellon University, highlighting undisclosed data sharing and the companies receiving users’ information.",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-007",
@@ -178,7 +184,8 @@
       "source_notes": "Cable de agencia sindicado",
       "date_label": "21 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-008",
@@ -198,7 +205,8 @@
       "source_notes": "Firma Servimedia: reproducción de cable",
       "date_label": "21 February 2024",
       "country_label": "Spain",
-      "credit": "Servimedia."
+      "credit": "Servimedia.",
+      "foreign_location": ""
     },
     {
       "id": "media-009",
@@ -212,7 +220,7 @@
       "url": "https://computerhoy.20minutos.es/apps/android-tiene-grave-problema-informacion-personal-1366595",
       "attribution": "",
       "published": true,
-      "featured_order": 5,
+      "featured_order": 6,
       "order": 4,
       "source_status": "Página localizada",
       "source_notes": "Edición digital; la impresa se recoge por separado",
@@ -220,7 +228,8 @@
       "display_outlet": "Computer Hoy",
       "country_label": "Spain",
       "highlight_text": "Technology press coverage of my research on the personal data shared by Android apps and the lack of transparency about who receives it.",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-010",
@@ -240,7 +249,8 @@
       "source_notes": "Guardar escaneo de portada, índice y página como evidencia; sin URL específica",
       "date_label": "September 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-011",
@@ -260,7 +270,8 @@
       "source_notes": "Nueva ruta /archive; incluye cita textual de David",
       "date_label": "21 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-012",
@@ -280,7 +291,8 @@
       "source_notes": "No se pudo verificar el contenido actualmente",
       "date_label": "February 2024",
       "country_label": "",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-013",
@@ -300,7 +312,8 @@
       "source_notes": "El enlace también se había adjudicado a Norte Informa; evitar doble cómputo",
       "date_label": "February 2024",
       "country_label": "Argentina",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Argentina"
     },
     {
       "id": "media-014",
@@ -320,7 +333,8 @@
       "source_notes": "El usuario proporcionó por error la URL de La Unión; comprobar si existe noticia distinta",
       "date_label": "February 2024",
       "country_label": "",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-015",
@@ -340,7 +354,8 @@
       "source_notes": "Enlace antiguo con parámetros",
       "date_label": "February 2024",
       "country_label": "Argentina",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Argentina"
     },
     {
       "id": "media-016",
@@ -360,7 +375,8 @@
       "source_notes": "URL original cambió de ruta",
       "date_label": "February 2024",
       "country_label": "Colombia",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Colombia"
     },
     {
       "id": "media-017",
@@ -380,7 +396,8 @@
       "source_notes": "No se pudo verificar el contenido actualmente",
       "date_label": "February 2024",
       "country_label": "Latin America",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Latin America"
     },
     {
       "id": "media-018",
@@ -402,7 +419,8 @@
       "display_title": "Privacidad y datos personales en aplicaciones Android",
       "country_label": "Spain",
       "highlight_text": "My findings on undisclosed data sharing in Android apps were covered on La Linterna. The programme recording is available in the UPM archive.",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-019",
@@ -415,14 +433,18 @@
       "category": "Television",
       "url": "https://www.cope.es/trecetv/programas/trece-al-dia/videos/trece-dia-febrero-2024-20240227_2483447.html",
       "attribution": "",
-      "published": false,
-      "featured_order": 0,
-      "order": 68,
+      "published": true,
+      "featured_order": 4,
+      "order": 3,
       "source_status": "Respaldado por CV",
       "source_notes": "El URL inicialmente aportado era de febrero de 2023; éste es el del CV",
       "date_label": "27 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "display_outlet": "TRECE TV",
+      "display_title": "Trece al día: privacidad en aplicaciones Android",
+      "highlight_text": "My research on personal-data sharing in Android apps was covered on TRECE TV’s Trece al día on 27 February 2024.",
+      "foreign_location": ""
     },
     {
       "id": "media-020",
@@ -442,7 +464,8 @@
       "source_notes": "Artículo vincula estudio UPM-CMU con rankings de apps; revisar precisión metodológica",
       "date_label": "24 February 2024",
       "country_label": "Argentina",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Argentina"
     },
     {
       "id": "media-021",
@@ -462,7 +485,8 @@
       "source_notes": "Distribución El Tiempo/GDA, ver afiliación editorial",
       "date_label": "March 2024",
       "country_label": "Costa Rica",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Costa Rica"
     },
     {
       "id": "media-022",
@@ -482,7 +506,8 @@
       "source_notes": "Redacción/agencias: pieza web, no afirmar emisión en TV",
       "date_label": "21 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-023",
@@ -502,7 +527,8 @@
       "source_notes": "Servimedia/ED",
       "date_label": "21 February 2024",
       "country_label": "Spain",
-      "credit": "Servimedia."
+      "credit": "Servimedia.",
+      "foreign_location": ""
     },
     {
       "id": "media-024",
@@ -522,7 +548,8 @@
       "source_notes": "Menciona explícitamente UPM y CMU; atención a ranking no necesariamente del paper",
       "date_label": "22 February 2024",
       "country_label": "Latin America",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Latin America"
     },
     {
       "id": "media-025",
@@ -542,7 +569,8 @@
       "source_notes": "Menciona explícitamente la investigación UPM y CMU",
       "date_label": "23 February 2024",
       "country_label": "Chile",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Chile"
     },
     {
       "id": "media-026",
@@ -562,7 +590,8 @@
       "source_notes": "Verificar fidelidad a metodología del artículo original",
       "date_label": "29 February 2024",
       "country_label": "Latin America",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Latin America"
     },
     {
       "id": "media-027",
@@ -582,7 +611,8 @@
       "source_notes": "Vincula la ola de cobertura Android",
       "date_label": "26 February 2024",
       "country_label": "International",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "International"
     },
     {
       "id": "media-028",
@@ -602,7 +632,8 @@
       "source_notes": "Referencia UPM-CMU; parte tras muro de pago",
       "date_label": "28 February 2024",
       "country_label": "Argentina",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Argentina"
     },
     {
       "id": "media-029",
@@ -622,7 +653,8 @@
       "source_notes": "",
       "date_label": "1 March 2024",
       "country_label": "Argentina",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Argentina"
     },
     {
       "id": "media-030",
@@ -642,7 +674,8 @@
       "source_notes": "El portal forma parte de un grupo radial, no se verifica emisión radiofónica",
       "date_label": "3 March 2024",
       "country_label": "Colombia",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Colombia"
     },
     {
       "id": "media-031",
@@ -662,7 +695,8 @@
       "source_notes": "",
       "date_label": "1 March 2024",
       "country_label": "Colombia",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Colombia"
     },
     {
       "id": "media-032",
@@ -676,14 +710,15 @@
       "url": "https://www.sbs.com.au/language/spanish/es/podcast-episode/cibertendencias-publicada-lista-de-aplicaciones-que-mas-comparten-tus-datos-y-las-usas-a-diario/uruaiz0ot",
       "attribution": "",
       "published": true,
-      "featured_order": 4,
+      "featured_order": 5,
       "order": 3,
       "source_status": "Página verificada",
       "source_notes": "Pieza de audio ~19 minutos: revisar contenido para atribución exacta",
       "date_label": "4 March 2024",
       "country_label": "Australia",
       "highlight_text": "My Android privacy research reached Spanish-speaking listeners in Australia through the Cibertendencias radio programme.",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Australia"
     },
     {
       "id": "media-033",
@@ -703,7 +738,8 @@
       "source_notes": "Difusión sectorial (consultora), no medio periodístico",
       "date_label": "26 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-034",
@@ -723,7 +759,8 @@
       "source_notes": "Blog sectorial; no prensa independiente",
       "date_label": "23 February 2024",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-035",
@@ -743,7 +780,8 @@
       "source_notes": "Mención contextual del estudio, no nota principal",
       "date_label": "2024",
       "country_label": "Colombia",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Colombia"
     },
     {
       "id": "media-036",
@@ -763,7 +801,8 @@
       "source_notes": "Firmado por David y Celia Fernández Aller",
       "date_label": "13 May 2024",
       "country_label": "Spain",
-      "credit": "Co-authored with María Celia Fernández Aller."
+      "credit": "Co-authored with María Celia Fernández Aller.",
+      "foreign_location": ""
     },
     {
       "id": "media-037",
@@ -783,7 +822,8 @@
       "source_notes": "Firma completa de los dos autores; republicación con licencia The Conversation",
       "date_label": "15 May 2024",
       "country_label": "Spain",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": ""
     },
     {
       "id": "media-038",
@@ -803,7 +843,8 @@
       "source_notes": "Reproducción expresamente acreditada a The Conversation",
       "date_label": "14 May 2024",
       "country_label": "Chile",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": "Chile"
     },
     {
       "id": "media-039",
@@ -823,7 +864,8 @@
       "source_notes": "Firmada por los dos autores y crédito a The Conversation",
       "date_label": "14 May 2024",
       "country_label": "Spain",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": ""
     },
     {
       "id": "media-040",
@@ -843,7 +885,8 @@
       "source_notes": "Reproducción de The Conversation",
       "date_label": "August 2024",
       "country_label": "Spain",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": ""
     },
     {
       "id": "media-041",
@@ -863,7 +906,8 @@
       "source_notes": "Cobertura inspirada por la investigación, no reproducción literal",
       "date_label": "16 May 2024",
       "country_label": "Spain",
-      "credit": "Related reporting citing the study."
+      "credit": "Related reporting citing the study.",
+      "foreign_location": ""
     },
     {
       "id": "media-042",
@@ -883,7 +927,8 @@
       "source_notes": "Autoría acreditada; reproducción de The Conversation",
       "date_label": "14 May 2024",
       "country_label": "Spain",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": ""
     },
     {
       "id": "media-043",
@@ -903,7 +948,8 @@
       "source_notes": "Reproducción institucional del artículo de divulgación",
       "date_label": "20 May 2024",
       "country_label": "Spain",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": ""
     },
     {
       "id": "media-044",
@@ -923,7 +969,8 @@
       "source_notes": "",
       "date_label": "20 May 2024",
       "country_label": "Spain",
-      "credit": "Republished from The Conversation."
+      "credit": "Republished from The Conversation.",
+      "foreign_location": ""
     },
     {
       "id": "media-045",
@@ -943,7 +990,8 @@
       "source_notes": "Incluye declaraciones de David",
       "date_label": "23 June 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-046",
@@ -963,7 +1011,8 @@
       "source_notes": "Sin URL específica única localizada",
       "date_label": "June 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-047",
@@ -984,7 +1033,8 @@
       "date_label": "23 June 2025",
       "display_outlet": "UPM (video interview)",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-048",
@@ -1004,7 +1054,8 @@
       "source_notes": "Reedición en newsletter de septiembre",
       "date_label": "September 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-049",
@@ -1024,7 +1075,8 @@
       "source_notes": "Reedición de nota institucional",
       "date_label": "24 June 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-050",
@@ -1044,7 +1096,8 @@
       "source_notes": "Incluye declaraciones de David",
       "date_label": "24 June 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-051",
@@ -1064,7 +1117,8 @@
       "source_notes": "",
       "date_label": "15 July 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-052",
@@ -1084,7 +1138,8 @@
       "source_notes": "Noticia institucional de la investigación PETS 2025",
       "date_label": "16 July 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-053",
@@ -1105,7 +1160,8 @@
       "date_label": "19 November 2025",
       "country_label": "Spain",
       "highlight_text": "I discuss the value of personal data, its use in artificial intelligence and the privacy implications of free digital services in an interview with El Español’s technology section.",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-054",
@@ -1125,7 +1181,8 @@
       "source_notes": "Resumen institucional en inglés de entrevista El Español",
       "date_label": "21 November 2025",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-055",
@@ -1145,7 +1202,8 @@
       "source_notes": "Nota origen de estudio sobre 782 Custom GPTs",
       "date_label": "8 June 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-056",
@@ -1165,7 +1223,8 @@
       "source_notes": "",
       "date_label": "8 June 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-057",
@@ -1185,7 +1244,8 @@
       "source_notes": "",
       "date_label": "11 June 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-058",
@@ -1205,7 +1265,8 @@
       "source_notes": "",
       "date_label": "11 June 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-059",
@@ -1225,7 +1286,8 @@
       "source_notes": "Portal de distribución de notas científicas",
       "date_label": "8 June 2026",
       "country_label": "International",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "International"
     },
     {
       "id": "media-060",
@@ -1245,7 +1307,8 @@
       "source_notes": "URL de republicación Noticias SIN; no duplicar como medio independiente",
       "date_label": "8 June 2026",
       "country_label": "España / global",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-061",
@@ -1265,7 +1328,8 @@
       "source_notes": "Firma Manuela Núñez",
       "date_label": "8 June 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-062",
@@ -1285,7 +1349,8 @@
       "source_notes": "Mismo artículo editorial que Diario de Sevilla, diferente cabecera",
       "date_label": "8 June 2026",
       "country_label": "Spain",
-      "credit": "Also published in Diario de Sevilla."
+      "credit": "Also published in Diario de Sevilla.",
+      "foreign_location": ""
     },
     {
       "id": "media-063",
@@ -1299,14 +1364,15 @@
       "url": "https://noticiassin.com/tecnologia/2026/06/08/chatgpt-personalizado-incumple-normas-en-587-casos-2020633/",
       "attribution": "Reporting by Agencia EFE",
       "published": true,
-      "featured_order": 6,
+      "featured_order": 7,
       "order": 6,
       "source_status": "Página verificada",
       "source_notes": "Artículo de Agencia EFE",
       "date_label": "8 June 2026",
       "country_label": "Dominican Republic",
       "highlight_text": "International agency coverage of my study of 782 Custom GPTs, which found policy violations in 58.7% of the evaluated assistants.",
-      "credit": "Agencia EFE."
+      "credit": "Agencia EFE.",
+      "foreign_location": "Dominican Republic"
     },
     {
       "id": "media-064",
@@ -1326,7 +1392,8 @@
       "source_notes": "Reproducción de contenido de agencia",
       "date_label": "8 June 2026",
       "country_label": "Argentina",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Argentina"
     },
     {
       "id": "media-065",
@@ -1346,7 +1413,8 @@
       "source_notes": "Difusión de agencia EFE",
       "date_label": "8 June 2026",
       "country_label": "Paraguay",
-      "credit": "Agencia EFE."
+      "credit": "Agencia EFE.",
+      "foreign_location": "Paraguay"
     },
     {
       "id": "media-066",
@@ -1366,7 +1434,8 @@
       "source_notes": "Foto y contenido EFE",
       "date_label": "8 June 2026",
       "country_label": "Mexico",
-      "credit": "Agencia EFE."
+      "credit": "Agencia EFE.",
+      "foreign_location": "Mexico"
     },
     {
       "id": "media-067",
@@ -1386,7 +1455,8 @@
       "source_notes": "Firma EFE",
       "date_label": "13 June 2026",
       "country_label": "Mexico",
-      "credit": "Agencia EFE."
+      "credit": "Agencia EFE.",
+      "foreign_location": "Mexico"
     },
     {
       "id": "media-068",
@@ -1406,7 +1476,8 @@
       "source_notes": "Cita textual de David",
       "date_label": "13 June 2026",
       "country_label": "Mexico",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Mexico"
     },
     {
       "id": "media-069",
@@ -1426,7 +1497,8 @@
       "source_notes": "PDF de número impreso; confirmar página exacta en PDF",
       "date_label": "14 June 2026",
       "country_label": "Mexico",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Mexico"
     },
     {
       "id": "media-070",
@@ -1446,7 +1518,8 @@
       "source_notes": "Reproducción de agencia o El Informador",
       "date_label": "14 June 2026",
       "country_label": "Mexico",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Mexico"
     },
     {
       "id": "media-071",
@@ -1466,7 +1539,8 @@
       "source_notes": "Página 5, sección Vida, cita textual a David; FlipHTML5 conserva la edición",
       "date_label": "9 June 2026",
       "country_label": "Colombia",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Colombia"
     },
     {
       "id": "media-072",
@@ -1486,7 +1560,8 @@
       "source_notes": "Resalta la dimensión académica del estudio",
       "date_label": "25 June 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-073",
@@ -1506,7 +1581,8 @@
       "source_notes": "Invitación a panel FemTech en Madrid; no publicación de prensa",
       "date_label": "18 December 2025",
       "country_label": "Portugal / España",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "Portugal / España"
     },
     {
       "id": "media-074",
@@ -1526,7 +1602,8 @@
       "source_notes": "Ponencia invitada, no noticia en prensa",
       "date_label": "12 March 2026",
       "country_label": "Spain",
-      "credit": ""
+      "credit": "",
+      "foreign_location": ""
     },
     {
       "id": "media-075",
@@ -1546,7 +1623,8 @@
       "source_notes": "Seminario invitado, no noticia en prensa",
       "date_label": "30 October 2024",
       "country_label": "United Kingdom",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "United Kingdom"
     },
     {
       "id": "media-076",
@@ -1566,7 +1644,8 @@
       "source_notes": "Amplificación social, no medio informativo",
       "date_label": "19 February 2024",
       "country_label": "International",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "International"
     },
     {
       "id": "media-077",
@@ -1586,7 +1665,8 @@
       "source_notes": "Autodifusión, no cobertura periodística",
       "date_label": "25 February 2024",
       "country_label": "International",
-      "credit": ""
+      "credit": "",
+      "foreign_location": "International"
     }
   ],
   "categories": [

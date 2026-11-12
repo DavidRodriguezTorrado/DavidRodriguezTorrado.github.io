@@ -16,7 +16,7 @@ description: "Selected media appearances and coverage of my scientific publicati
 <section id="{{ group.id }}" aria-labelledby="heading-{{ group.id }}">
 <h3 id="heading-{{ group.id }}">{{ group.title | escape }} ({{ group.year }})</h3>
 {% if group.paper_url %}
-<p><strong>Scientific paper:</strong> <a href="{{ group.paper_url | relative_url }}">{{ group.paper_title | escape }}</a> (<a href="{{ group.doi | escape }}">DOI</a>).</p>
+<p><strong>Scientific paper:</strong> <a href="{{ group.paper_url | relative_url }}">{{ group.paper_title | escape }}</a> (<a href="{{ group.doi | escape }}" target="_blank" rel="noopener noreferrer">DOI</a>).</p>
 {% endif %}
 {% assign coverage = site.data.media.entries | where: "group", group.id | where: "published", true | sort: "order" %}
 <ul>
