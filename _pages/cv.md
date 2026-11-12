@@ -27,7 +27,7 @@ Work experience
 ======
 * **Assistant Professor**, Universidad Politécnica de Madrid — (*2025 – Present*)  
   Member of the **STRAST** research group (Sistemas de Tiempo Real y Arquitectura de Servicios Telemáticos).  
-  Teaching duties in the undergraduate course **ADSW (Software Analysis and Design)**, Escuela Técnica Superior de Ingenieros de Telecomunicación.
+  Teaching duties in the undergraduate courses **ADSW (Software Analysis and Design)** and **ALED (Algorithms and Data Structures)**, Escuela Técnica Superior de Ingenieros de Telecomunicación.
 
 * **Teaching Assistant**, Universidad Politécnica de Madrid — (*2023 – 2025*)  
   Member of the **STRAST** research group (Sistemas de Tiempo Real y Arquitectura de Servicios Telemáticos).  

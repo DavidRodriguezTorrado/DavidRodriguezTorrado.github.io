@@ -77,13 +77,9 @@ I actively contribute to research projects such as:
 
 ### 👨🏻‍🏫 Teaching
 
-Since 2023, I lecture in the second-year undergraduate course **Software Analysis and Design**, where I guide students through core software engineering techniques including:
-
-- **Software design and debugging** fundamentals.
-- **Algorithm design and analysis**, including sorting, dictionary structures, and graph algorithms.
-- **Concurrent programming** using threads, with emphasis on mutual exclusion, synchronization, and deadlock prevention.
-- **Complexity analysis** and architectural design of telecommunication systems.
-- **Team-based software development**, version control, and lab exercises linked to real-world communication software challenges.
+- [**Software Analysis and Design (ADSW)**](/teaching/adsw-upm) — Second-year course in Telecommunication Technologies and Services Engineering. I teach software design, algorithm analysis, concurrent programming, and team-based development.
+- [**Algorithms and Data Structures (ALED)**](/teaching/aled-upm) — Third-year course in Biomedical Engineering. I teach algorithm design and complexity, data structures, concurrent programming, and web applications and services.
+- [**Social, Ethical and Legal Aspects of Data and Artificial Intelligence**](/teaching/social-ethics-ai) — Course in Data Science and Artificial Intelligence. I delivered guest lectures in 2024 and 2025 on personal data, privacy risks, transparency, and automated assessment of data protection compliance.
   
 ---
 
