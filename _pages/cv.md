@@ -40,10 +40,13 @@ Work experience
 Research Visits
 ===============
 
+* **ETH Zurich**, Center for Law & Economics — (*Since 2024*)\
+  Invited postdoctoral researcher and research collaborator on an interdisciplinary project led by Prof. Stefan Bechtold and LL.M. Luka Nenadic (Zurich, Switzerland).\
+  Research on multilingual privacy policy analysis and the impact of Switzerland’s data protection law, resulting in a publication at PETS.
+
 * **Carnegie Mellon University**, School of Computer Science — (*Sep–Dec 2023*)  
   Visiting Ph.D. student under the supervision of Prof. [Norman Sadeh](https://www.normsadeh.org/) (Pittsburgh, USA).  
-  Research collaboration on privacy policy analysis using large language models.
-    ⟶ This collaboration (starting on 2022) resulted in seven co-authored publications, including papers at PETS and high impact journals.
+  Research collaboration on privacy policy analysis using large language models, resulting in seven co-authored publications, including papers at PETS and in high-impact journals.
 * **King’s College London**, Department of Informatics — (*Sep–Dec 2024*)  
   Visiting Ph.D. student working with Prof. [William Seymour](https://wseymour.co.uk/) and Prof. [Jose Such](https://www.kcl.ac.uk/people/jose-such) (London, UK).  
   Research on automated policy compliance evaluation in custom GPT-based systems, resulting in a publication in *Array*.
