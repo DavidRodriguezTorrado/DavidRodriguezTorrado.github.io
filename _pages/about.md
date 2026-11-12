@@ -15,7 +15,7 @@ Welcome! I’m an Assistant Professor at the **Universidad Politécnica de Madri
 
 My research has been covered in press, radio and international media, including La Vanguardia, El Español, COPE and SBS Español. Explore the reporting, interviews and science communication behind each study.
 
-[Explore media coverage →]({{ "/media/" | relative_url }})
+[Explore media coverage]({{ "/media/" | relative_url }})
 
 ---
 

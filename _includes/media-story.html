@@ -1,0 +1,4 @@
+<p><strong>{% if include.item.outlet == 'Noticias SIN' %}Agencia EFE (Noticias SIN){% else %}{{ include.item.display_outlet | default: include.item.outlet | escape }}{% endif %}</strong><br>
+<small>{{ include.item.format | escape }}, {{ include.item.date_label | escape }}</small></p>
+<p><a href="{{ include.item.url | escape }}" lang="es"><strong>{{ include.item.display_title | default: include.item.title | escape }}</strong></a><br>
+{{ include.item.highlight_text | escape }}</p>
