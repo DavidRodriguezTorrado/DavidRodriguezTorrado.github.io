@@ -1,0 +1,7 @@
+<li class="media-entry">
+  <span class="media-kind">{{ include.item.format | escape }}</span>
+  <strong>{{ include.item.outlet | escape }}</strong>
+  <span class="media-meta">{{ include.item.date | escape }} · {{ include.item.country | escape }}</span>
+  <a href="{{ include.item.url | escape }}" lang="es">{{ include.item.title | escape }}</a>
+  {% if include.item.attribution != empty %}<small>{{ include.item.attribution | escape }}</small>{% endif %}
+</li>

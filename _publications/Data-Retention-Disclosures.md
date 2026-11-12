@@ -1,5 +1,6 @@
 ---
 title: "Data Retention Disclosures in the Google Play Store: Opacity Remains the Norm"
+media_group: retention
 collection: publications
 permalink: /publication/data-retention-disclosures-play-store
 date: 2024-07-08
@@ -27,3 +28,7 @@ Out of 2,235 analyzed policies, over 50% were deemed potentially non-compliant, 
 - 📉 Found statistically significant correlation between app popularity and likelihood of compliance.
 
 👉 [Read the full paper](https://doi.org/10.1109/EuroSPW61312.2024.00009)
+
+### Media coverage
+
+[Explore coverage and science communication related to this study]({{ "/media/" | relative_url }}#retention).

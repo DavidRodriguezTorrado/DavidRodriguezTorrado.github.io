@@ -1,5 +1,6 @@
 ---
 title: "Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs"
+media_group: facebook
 collection: publications
 permalink: /publication/facebook-sdk-privacy-settings
 date: 2025-08-14
@@ -34,3 +35,6 @@ We observe fewer possible compliance issues in potentially child-directed apps, 
 
 👉 [Read the full paper (PDF)](https://petsymposium.org/popets/2025/popets-2025-0056.pdf)  
 📌 [DOI: 10.56553/popets-2025-0056](https://doi.org/10.56553/popets-2025-0056)
+### Media coverage
+
+[Explore coverage and science communication related to this study]({{ "/media/" | relative_url }}#facebook).

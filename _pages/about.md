@@ -11,6 +11,14 @@ Welcome! I’m an Assistant Professor at the **Universidad Politécnica de Madri
 
 ---
 
+### Research in the media
+
+My research has been covered in press, radio and international media, including La Vanguardia, El Español, COPE and SBS Español. Explore the reporting, interviews and science communication behind each study.
+
+[Explore media coverage →]({{ "/media/" | relative_url }})
+
+---
+
 ### 🎓 About me
 
 Since 2023, I teach **Software Analysis and Design (ADSW)** to second-year students at the **Escuela Técnica Superior de Ingenieros de Telecomunicación**, where I cover topics like software design, concurrent programming, and complexity analysis in Java.

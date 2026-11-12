@@ -1,5 +1,6 @@
 ---
 title: "Towards Safer Chatbots: Automated Policy Compliance Evaluation of Custom GPTs"
+media_group: gpts
 collection: publications
 permalink: /publication/towards-safer-chatbots
 date: 2026-04-21
@@ -30,3 +31,7 @@ The compliance assessment component was validated against a human-annotated grou
 
 👉 [Read the full paper](https://doi.org/10.1016/j.array.2026.100834)
 
+
+### Media coverage
+
+[Explore coverage and science communication related to this study]({{ "/media/" | relative_url }}#gpts).

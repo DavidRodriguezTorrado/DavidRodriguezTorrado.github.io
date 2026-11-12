@@ -1,0 +1,45 @@
+---
+layout: archive
+title: "Research in the Media"
+permalink: /media/
+author_profile: true
+description: "Press coverage, radio, television and science communication related to David Rodríguez Torrado's research."
+---
+<div class="research-media">
+<p>Selected coverage of my research on privacy, data protection and artificial intelligence, followed by a research-by-research archive. Original headlines are preserved in their publication language.</p>
+<h2>Selected coverage</h2>
+<div class="media-grid">
+{% assign highlights = site.data.media.entries | where: "published", true | sort: "featured_order" %}
+{% for item in highlights %}{% if item.featured_order > 0 %}
+<article class="media-card">
+  <span class="media-kind">{{ item.format | escape }}</span>
+  <h3><a href="{{ item.url | escape }}">{% if item.outlet == 'Noticias SIN' %}Agencia EFE · Noticias SIN{% else %}{{ item.outlet | escape }}{% endif %}</a></h3>
+  <p lang="es">{{ item.title | escape }}</p>
+  <p class="media-meta">{{ item.date | escape }} · {{ item.country | escape }}</p>
+  {% if item.attribution != empty %}<p class="media-attribution">{{ item.attribution | escape }}</p>{% endif %}
+  {% assign research = site.data.media.groups | where: "id", item.group | first %}
+  <a class="media-research-link" href="#{{ item.group }}">{{ research.title | escape }} →</a>
+</article>
+{% endif %}{% endfor %}
+</div>
+<h2>Coverage by research</h2>
+<nav aria-label="Research topics" class="media-topics">
+{% for group in site.data.media.groups %}<a href="#{{ group.id }}">{{ group.title | escape }}</a>{% endfor %}
+</nav>
+{% for group in site.data.media.groups %}
+<section id="{{ group.id }}" class="media-study" aria-labelledby="heading-{{ group.id }}">
+<h3 id="heading-{{ group.id }}">{{ group.title | escape }}</h3>
+<p>{{ group.summary | escape }}</p>
+{% if group.paper_url %}<p class="media-paper"><strong>Scientific paper:</strong> <a href="{{ group.paper_url | relative_url }}">{{ group.paper_title | escape }}</a> · <a href="{{ group.doi }}">DOI</a></p>{% endif %}
+{% assign coverage = site.data.media.entries | where: "group", group.id | where: "published", true | sort: "order" %}
+<ul class="media-list">{% for item in coverage limit: 3 %}{% include media-entry.html item=item %}{% endfor %}</ul>
+{% if coverage.size > 3 %}
+<details class="media-archive"><summary>View all coverage for this research</summary>
+{% for category in site.data.media.categories %}
+{% assign subset = coverage | where: "category", category %}
+{% if subset.size > 0 %}<h4>{{ category }}</h4><ul class="media-list">{% for item in subset %}{% include media-entry.html item=item %}{% endfor %}</ul>{% endif %}
+{% endfor %}
+</details>{% endif %}
+</section>
+{% endfor %}
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "Sharing is Not Always Caring: Delving Into Personal Data Transfer Compliance in Android Apps"
+media_group: android
 collection: publications
 permalink: /publication/sharing-is-not-always-caring
 date: 2024-01-03
@@ -25,3 +26,7 @@ Applied to a dataset of 9,000 Android apps, the method revealed that over 80% of
 - 🧠 The method leverages GPT-based analysis to identify data controllers and recipients.
 
 👉 [Read the full paper](https://doi.org/10.1109/ACCESS.2024.3349425)
+
+### Media coverage
+
+[Explore coverage and science communication related to this study]({{ "/media/" | relative_url }}#android).
