@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m an Assistant Professor at the **Universidad Politécnica de Madrid (UPM)** and hold a Ph.D. in Privacy Engineering, awarded UPM’s **Outstanding Doctoral Thesis Award**. I’m a member of the Information Processing and Telecommunications Center ([IPTC](https://iptc.upm.es/)) and work within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
+Welcome! I’m an Assistant Professor at the **Universidad Politécnica de Madrid (UPM)** and hold a Ph.D. in Privacy Engineering. My thesis received the **Outstanding Doctoral Thesis Award** from UPM and the **Doctoral Academic Excellence Award** from its School of Telecommunications Engineering. I’m a member of the Information Processing and Telecommunications Center ([IPTC](https://iptc.upm.es/)) and work within the [STRAST](https://www.upm.es/recursosidi/map/sistemas-de-tiempo-real-y-arquitectura-de-servicios-telematicos/) research group (Real-Time Systems and Service Architecture for Telematics). My research focuses on the **automated assessment of privacy and data protection compliance** in ICT systems, especially in the context of Android mobile apps and GDPR regulation.
 
 ---
 
@@ -58,11 +58,14 @@ I currently serve as **Program Co-Chair** for the [International Workshop on Pri
 ---
 
 ### 🧪 Ph.D. Research
+{: #phd-research}
 
 **Ph.D. in Privacy Engineering**, *Universidad Politécnica de Madrid (UPM)*.  
-Defended on July 8, 2025, with *cum laude* honors and an international doctorate distinction, and received UPM’s **Outstanding Doctoral Thesis Award**.
+Defended on July 8, 2025, with *cum laude* honors and an international doctorate distinction.
 
 **Thesis title**: *Contributions to the Automated Assessment of Mobile Applications’ Compliance with Privacy and Data Protection Requirements*
+
+UPM recognized the thesis with its **Outstanding Doctoral Thesis Award** for the **2024–2025 academic year**. UPM’s School of Telecommunications Engineering (ETSIT) also awarded the thesis its **Doctoral Academic Excellence Award**, which carries a **€1,000 prize**.
 
 My research addresses three key layers of analysis in mobile privacy:
 

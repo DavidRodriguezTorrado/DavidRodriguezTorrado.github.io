@@ -19,7 +19,8 @@ Education
 
 Honors and Awards
 ======
-* **Outstanding Doctoral Thesis Award**, UPM — **2024–2025 academic year**.
+* **Outstanding Doctoral Thesis Award**, Universidad Politécnica de Madrid (UPM) — **2024–2025 academic year**.
+* **Doctoral Academic Excellence Award**, School of Telecommunications Engineering (ETSIT), UPM — **€1,000**.
 * **Second Best Presentation Award**, International Workshop on Privacy Engineering (IWPE) — **2023**.
 * **Best Presentation Award**, International Workshop on Privacy Engineering (IWPE) — **2022**.
 
